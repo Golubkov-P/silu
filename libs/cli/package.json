@@ -1,0 +1,7 @@
+{
+  "name": "@silu-perf/cli",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": "^8.0.0"
+  }
+}
